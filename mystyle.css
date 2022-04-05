@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.movies{
+    border: 2px solid black;
+    padding: 10px;
+    width: 98%;
+}
+
+.title{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
